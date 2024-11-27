@@ -1,0 +1,10 @@
+C:\Users\Алексей\Documents\GitHub\HomenkoTest\HomenkoTest\bin\Debug\HomenkoTest.exe.config
+C:\Users\Алексей\Documents\GitHub\HomenkoTest\HomenkoTest\bin\Debug\HomenkoTest.exe
+C:\Users\Алексей\Documents\GitHub\HomenkoTest\HomenkoTest\bin\Debug\HomenkoTest.pdb
+C:\Users\Алексей\Documents\GitHub\HomenkoTest\HomenkoTest\bin\Debug\InspectorLib.dll
+C:\Users\Алексей\Documents\GitHub\HomenkoTest\HomenkoTest\bin\Debug\InspectorLib.pdb
+C:\Users\Алексей\Documents\GitHub\HomenkoTest\HomenkoTest\obj\Debug\HomenkoTest.csproj.AssemblyReference.cache
+C:\Users\Алексей\Documents\GitHub\HomenkoTest\HomenkoTest\obj\Debug\HomenkoTest.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Documents\GitHub\HomenkoTest\HomenkoTest\obj\Debug\HomenkoT.516E3B82.Up2Date
+C:\Users\Алексей\Documents\GitHub\HomenkoTest\HomenkoTest\obj\Debug\HomenkoTest.exe
+C:\Users\Алексей\Documents\GitHub\HomenkoTest\HomenkoTest\obj\Debug\HomenkoTest.pdb
